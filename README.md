@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @toimoon
+# 👋 Hi, I’m Toimoon
 
 Welcome to my GitHub profile! I'm passionate about coding and technology, and I’m always learning and exploring new ideas to enhance my skills.
 
