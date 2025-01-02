@@ -1,6 +1,6 @@
-# 👋 Hi, I’m toimoon
+# 👋 Hi, I’m @toimoon
 
-Welcome to my GitHub profile! I'm passionate about coding and technology, and I'm always exploring new ideas to enhance my skills.
+Welcome to my GitHub profile! I'm passionate about coding and technology, and I’m always learning and exploring new ideas to enhance my skills.
 
 ## 👀 I’m interested in:
 - Software development
@@ -12,12 +12,13 @@ Welcome to my GitHub profile! I'm passionate about coding and technology, and I'
 ## 🌱 I’m currently learning:
 - **React.js** & **Node.js** for full-stack development
 - Exploring **AI** and **Data Science** concepts
+- **C++** and **Java** for low-level and enterprise-level applications
 
 ## 💞️ I’m looking to collaborate on:
 - Open-source projects
 - Web applications
 - AI/ML projects
-- Any interesting technical challenges
+- Technical challenges across different domains
 
 ## 📫 How to reach me:
 - Email: [toimoonislam@gmail.com](mailto:toimoonislam@gmail.com)
